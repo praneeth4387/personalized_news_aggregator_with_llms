@@ -1,7 +1,3 @@
-Here’s the **updated README** with proper **Markdown formatting (`#` for headings)** to make it easy for you to copy and use directly.  
-
----
-
 # **Personalized News Aggregator**  
 
 ## **Introduction**  
@@ -148,4 +144,3 @@ The **Personalized News Aggregator** successfully:
 
 ---
 
-### ✅ **Now your README is ready for direct use!** Let me know if you need any tweaks! 🚀
