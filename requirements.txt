@@ -1,7 +1,7 @@
 beautifulsoup4==4.13.3
 fastapi==0.115.8
 #gensim==4.3.3
-llama_index==0.12.16
+llama-index-llms-gemini== 0.4.10
 #nltk==3.9.1
 pandas==2.2.3
 Requests==2.32.3
