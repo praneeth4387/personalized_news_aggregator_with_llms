@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from llama_index.llms.gemini import Gemini
 
-os.environ["GEMINI_API_KEY"] = "AIzaSyDoUVLrwSpiLlOjA68s5JLYiVdueHBUTYo"
+os.environ["GEMINI_API_KEY"] = "your gemini api key"
 
 # Initialize the Gemini LLM for generating categories
 category_agent = Gemini(model="models/gemini-pro", temperature=0.7)
